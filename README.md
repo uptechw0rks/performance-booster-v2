@@ -41,7 +41,7 @@ Performance Booster v2.0 is a batch script designed to optimize your PC's perfor
 ## Requirements ⚙️
 - **Windows Operating System** (Tested on Windows 10/11). 🖱️
 - **Admin privileges** for executing certain optimizations. 🔑
-
+- **Privacy** (**I Tested it 20 times and had a friend help test it. It's fully Safe and Reliable**)
 ---
 
 ## License 📜
