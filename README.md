@@ -13,7 +13,7 @@ Performance Booster v2.0 is a batch script designed to optimize your PC's perfor
 
 ### Features ✨:
 - **System Optimizations**: Disable unnecessary services, optimize startup programs, clean RAM, and more. ⚡
-- **Customization**: Modify the script to add new performance tweaks. ⚙️
+- **Customization**: Improved user interface with explanations ⚙️
 - **Simple Interface**: Easy-to-use command-line interface. 🖥️
 
 ---
