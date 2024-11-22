@@ -49,6 +49,6 @@ This project is licensed under the MIT License
 
 ---
 
-**More script's coming soon**
+**More various client's coming soon**
 
 Made by **uptechworks**. 👨‍💻
