@@ -45,7 +45,7 @@ Performance Booster v2.0 is a batch script designed to optimize your PC's perfor
 ---
 
 ## License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ---
 
