@@ -1,7 +1,7 @@
 # performance-booster-v2
 A batch script to boost PC performance with various optimizations.
 
-
+**Look in latest Releases for the file**
 _______________________________________________________________________________________________________________________________
 # Performance Booster v2.0 🚀
 
